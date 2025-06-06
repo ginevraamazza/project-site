@@ -2,11 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Benvenuti</title>
+</head>
+<body>
+  <h1>Benvenuti nel mio progetto!</h1>
+  <p>Questa è la pagina iniziale del mio sito GitHub Pages.<br>
+     È costruita usando il tema <strong>Slate</strong> di GitHub Pages.</p>
 
-[Link to another page](./another-page.html).
+  <h2>Sezioni</h2>
+  <ul>
+    <li>📂 Codice: <a href="https://github.com/ginevraamazza/project-site">Vai al repository</a></li>
+    <li>📄 Documentazione: coming soon...</li>
+    <li>🧪 Esperimenti: coming soon...</li>
+  </ul>
 
-There should be whitespace between paragraphs.
+  <hr>
+  <p>Hai bisogno di aiuto con il sito? Contattami!</p>
+
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ciaoooo
 prova prova prova. Viva il Toad!!!!!!
@@ -146,5 +162,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
+</body>
+</html>
 The final element.
 ```
