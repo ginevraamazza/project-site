@@ -9,7 +9,7 @@ layout: default
   <title>Benvenuti</title>
 </head>
 <body>
-  <h1>Benvenuti nel mio progetto!</h1>
+  <h1>Knowledge Engeneering for Humanities - Semantic Enrichment of Rimini's Monument Entities in the Wikidata Knowledge Graph</h1>
   <p>Questa è la pagina iniziale del mio sito GitHub Pages.<br>
      È costruita usando il tema <strong>Slate</strong> di GitHub Pages.</p>
 
