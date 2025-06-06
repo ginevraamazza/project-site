@@ -45,7 +45,13 @@ end
 
 With this query we identify all the monuments in Rimini, to find those that will be enriched later.
 
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX wikibase: <http://wikiba.se/ontology#>
